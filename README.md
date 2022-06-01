@@ -30,3 +30,11 @@ Stock Watcher:
 - remove stock from watchlist 
 - display stock data to console
 - auto update watchlist data at specified time 
+
+
+Trading Bot:
+- fetch stock price historical data 
+- perform analysis on data 
+- implement a trading strategy 
+- backtest trading strategy 
+- create an alert system
